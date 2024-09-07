@@ -1,0 +1,52 @@
+/* .gifphy-contener{
+    background-color: black;
+} */
+.input-fild{
+    font-size: 20px;
+    vertical-align: middle;
+    transition: .5s;
+    border-width: 2px;
+    margin: 5px;
+  }
+  .header-style{
+    background-color: #9900ff;
+    height: 70px;
+    width: 100%;
+  }
+  .header-text{
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .header-text button{
+    height: 70px;
+    width: 150px;
+    background-color: #212121;
+    color: #AEAEAE;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 20px;
+  }
+  .gifphy-text{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+
+  }
+  .gifphy-text input{
+    height: 40px;
+    width: 500px;
+    border-radius: 10px;
+    font-size: 25px;
+  }
+
+  .gifphy-text button{
+    height: 45px;
+    width: 150px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: #9900ff;
+    text-align: center;
+    color: antiquewhite;
+  } 
+ 
